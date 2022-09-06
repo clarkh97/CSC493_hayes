@@ -1,4 +1,4 @@
-# *Replace with YourProposedProposedProjectName*
+# *Power Tester*
 ## Description/Motivation
 
 Your formally written project proposal description, and why it is useful/interesting/fun goes here. Try to be as descriptive as possible, as we will be discussing your project ideas during the brainstorming in class.
