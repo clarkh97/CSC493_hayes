@@ -1,7 +1,7 @@
 # *Power Tester*
 ## Description/Motivation
 
-Your formally written project proposal description, and why it is useful/interesting/fun goes here. Try to be as descriptive as possible, as we will be discussing your project ideas during the brainstorming in class.
+My project is intended to measure the power of a device consumed while charging, and differentiating between trickle charging to maintain level and charging at normal speed. The goal of keeping track of such metrics is to calculate how much power is consumed while a device is plugged into a charger, but already at full capacity.
 
 ### Prerequisites
 
