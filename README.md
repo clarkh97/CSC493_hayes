@@ -5,7 +5,7 @@ My project is intended to measure the power of a device consumed while charging,
 
 ### Prerequisites
 
-What is likely to be needed to install and to run *YourProposedProjectName* go here. If nothing is required (i.e. it is a website), state so.
+This program will run on a Raspberry Pi using a current sensor hat. Anyone intending to use the software will need a Raspberry Pi along with a current sensor hat as well as a chargin cable that has been cut in two in order to get the voltage and current readings through the cable.
 
 ## Built With
 
