@@ -16,6 +16,8 @@ This program will run on a Raspberry Pi using a current sensor hat. Anyone inten
 
 - **Hayes Clark**: *Power Tester* [Github](https://github.com/clarkh97/)
 
+**[Design](design.md)
+
 ## Acknowledgments
 
 - Power sensor code library from Waveshare: https://www.waveshare.com/wiki/Current/Power_Monitor_HAT
