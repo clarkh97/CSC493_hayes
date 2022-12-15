@@ -16,7 +16,7 @@ This program will run on a Raspberry Pi using a current sensor hat. Anyone inten
 
 - **Hayes Clark**: *Power Tester* [Github](https://github.com/clarkh97/)
 
-**[Design](design.md)
+**[Design](design.md)**
 
 ## Acknowledgments
 
