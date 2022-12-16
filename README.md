@@ -1,6 +1,6 @@
 # *Power Tester*
 ## Description/Motivation
-[Project Concept](concept.md)
+**[Project Concept](concept.md)**
 
 My project is intended to measure the power of a device consumed while charging, and differentiating between trickle charging to maintain level and charging at normal speed. The goal of keeping track of such metrics is to calculate how much power is consumed while a device is plugged into a charger, but already at full capacity.
 
