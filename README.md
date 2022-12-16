@@ -31,4 +31,6 @@ This program will run on a Raspberry Pi using a current sensor hat. Anyone inten
 
 - Power sensor code library from Waveshare: https://www.waveshare.com/wiki/Current/Power_Monitor_HAT
 
+[Installation and use guide](install.md)
+
 
