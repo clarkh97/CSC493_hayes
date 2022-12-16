@@ -14,9 +14,11 @@ My project is intended to measure the power of a device consumed while charging,
 
 This program will run on a Raspberry Pi using a current sensor hat. Anyone intending to use the software will need a Raspberry Pi along with a current sensor hat as well as a chargin cable that has been cut in two in order to get the voltage and current readings through the cable.
 
-## Built With
+**[Requirements](requirements.md)**
 
+## Built With
 - Python 3
+- Numpy library
 - Raspberry Pi OS
 
 ## Author
