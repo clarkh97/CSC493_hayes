@@ -1,7 +1,7 @@
-
+#Requirements
 
   - **1**: 
-  - **Statement**:Read current and voltage data from the sensor.
+  - **Statement**: Read current and voltage data from the sensor.
   - **Evaluation Method**: Use a known voltage and current in order to compare the numbers given by the program
   - **Dependency**: All other requirements rely on this information.
   - **Priority**: Essential
